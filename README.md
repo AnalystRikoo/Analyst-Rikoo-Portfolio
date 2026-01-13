@@ -14,4 +14,23 @@ Interactive Excel template designed for freelancers and remote workers to track 
 [ FREELANCER_PAYMENT_TRACKER.xltx ] (PAYMENT-TRACKER/FREELANCER_PAYMENT_TRACKER.xltx) 
 
 **Screenshots**:
-![FULL DASHBOARD] (PAYMENT_TRACKER/
+![FULL DASHBOARD] (PAYMENT_TRACKER/PAYMENT_TRACKER%202.PNG)
+*Dashboard overview with key metrics, chart and slicers* 
+
+![DATA ENTRY] (PAYMENT_TRACKER/PAYMENT-TRACKER%201.PNG)
+*Data entry sheet with sample invoices*
+
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iPNG)
+*Example with Paid slicer filtered*
+
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iiPNG)
+*Example with Pending slicer filtered*
+
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iiiPNG)
+*Example with Overdue slicer filtered*
+
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.ivPNG)
+*Example with Pending + Elijah filtered*
+
+![INSTRUCTION] (PAYMENT-TRACKER/PAYMENT-TRACKER%203.PNG)
+*Instruction Sheet*
