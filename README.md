@@ -20,16 +20,16 @@ Interactive Excel template designed for freelancers and remote workers to track 
 ![DATA ENTRY] (PAYMENT_TRACKER/PAYMENT-TRACKER%201.PNG)
 *Data entry sheet with sample invoices*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iPNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20i.PNG)
 *Example with Paid slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iiPNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20ii.PNG)
 *Example with Pending slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.iiiPNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20iii.PNG)
 *Example with Overdue slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20.ivPNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20iv.PNG)
 *Example with Pending + Elijah filtered*
 
 ![INSTRUCTION] (PAYMENT-TRACKER/PAYMENT-TRACKER%203.PNG)
