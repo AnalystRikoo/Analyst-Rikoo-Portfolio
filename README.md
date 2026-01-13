@@ -1,2 +1,17 @@
-# Analyst-Rikoo-Portfolio
-Certified Data Analyst | Lagos, Nigeria Passionate about transforming data into clear, actionable insights using Excel, SQL, Power BI, and Tableau. Always open to learning, collaborating, sharing knowledge, and growing in the data community. Ready to tackle new challenges, build impactful solutions, and contribute to innovative projects.
+**FREELANCER PAYMENT TRACKER**
+
+Interactive Excel template designed for freelancers and remote workers to track invoices, payments, and statuses.
+
+**FEATURES**:
+- Auto-status calculation (paid / Overdue / Pending) using formulas
+- interactive dashboard with slicers for filtering by client & status
+- PivotTables for summaries
+- Chart for visual insights (Paid vs Outstanding Balance)
+- Key metrics (Total Billed, Paid, Balance Due)
+- Conditional Formatting for quick visual cues
+
+**Download Template**:
+[ FREELANCER_PAYMENT_TRACKER.xltx ] (PAYMENT-TRACKER/FREELANCER_PAYMENT_TRACKER.xltx) 
+
+**Screenshots**:
+![FULL DASHBOARD] (PAYMENT_TRACKER/
