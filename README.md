@@ -11,26 +11,26 @@ Interactive Excel template designed for freelancers and remote workers to track 
 - Conditional Formatting for quick visual cues
 
 **Download Template**:
-[ FREELANCER_PAYMENT_TRACKER.xltx ] (PAYMENT-TRACKER/FREELANCER_PAYMENT_TRACKER.xltx) 
+[ FREELANCER-PAYMENT-TRACKER.xltx] (PAYMENT-TRACKER/FREELANCER-PAYMENT-TRACKER.xltx) 
 
 **Screenshots**:
-![FULL DASHBOARD] (PAYMENT_TRACKER/PAYMENT_TRACKER%202.PNG)
+![FULL DASHBOARD] (PAYMENT_TRACKER/DASHBOARD.PNG)
 *Dashboard overview with key metrics, chart and slicers* 
 
-![DATA ENTRY] (PAYMENT_TRACKER/PAYMENT-TRACKER%201.PNG)
+![DATA ENTRY] (PAYMENT_TRACKER/DATAENTRY.PNG)
 *Data entry sheet with sample invoices*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20i.PNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PAIDSLICER.PNG)
 *Example with Paid slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20ii.PNG)
+![Slicer Filtered] (PAYMENT-TRACKER/PENDINGSLICER.PNG)
 *Example with Pending slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20iii.PNG)
+![Slicer Filtered] (PAYMENT-TRACKER/OVERDUESLICER.PNG)
 *Example with Overdue slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAYMENT-TRACKER%20iv.PNG)
+![Slicer Filtered] (PAYMENT-TRACKER/STATUS+CLIENT.PNG)
 *Example with Pending + Elijah filtered*
 
-![INSTRUCTION] (PAYMENT-TRACKER/PAYMENT-TRACKER%203.PNG)
+![INSTRUCTION] (PAYMENT-TRACKER/INSTRUCTION.PNG)
 *Instruction Sheet*
