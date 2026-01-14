@@ -14,18 +14,13 @@
 *Example with Paid slicer filtered*
 
 ![Overdue Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/OVERDUESLICER.PNG)  
-
 *Example with Overdue slicer filtered*
 
-![Pending Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/PENDINGSGSICER.PNG)  
-
+![Pending Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/PENDINGSLICER.PNG)  
 *Example with Pending slicer filtered*
 
 ![Status + Client](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/STATUS+CLIENT.PNG)  
-
 *Example with Status + Client filtered*
 
-
 ![Instructions](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/INSTRUCTION.PNG)  
-
 *Instructions sheet*
