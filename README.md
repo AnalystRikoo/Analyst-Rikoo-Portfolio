@@ -5,18 +5,15 @@
 **Screenshots**:
 
 ![Dashboard](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/DASHBOARD.PNG)  
-
 *Dashboard overview with key metrics, chart, and slicers*
 
 ![Data Entry](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/DATAENTRY.PNG)  
-
 *Data entry sheet with sample invoices*
 
 ![Paid Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/PAIDSLICER.PNG)  
-
 *Example with Paid slicer filtered*
 
-![Overdue Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/OVERDUESLICERS.PNG)  
+![Overdue Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/OVERDUESLICER.PNG)  
 
 *Example with Overdue slicer filtered*
 
