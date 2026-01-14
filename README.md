@@ -1,36 +1,34 @@
-**FREELANCER PAYMENT TRACKER**
+**Download Template**:  
 
-Interactive Excel template designed for freelancers and remote workers to track invoices, payments, and statuses.
-
-**FEATURES**:
-- Auto-status calculation (paid / Overdue / Pending) using formulas
-- interactive dashboard with slicers for filtering by client & status
-- PivotTables for summaries
-- Chart for visual insights (Paid vs Outstanding Balance)
-- Key metrics (Total Billed, Paid, Balance Due)
-- Conditional Formatting for quick visual cues
-
-**Download Template**:
-[ FREELANCER-PAYMENT-TRACKER.xltx] (PAYMENT-TRACKER/FREELANCER-PAYMENT-TRACKER.xltx) 
+[Download FREELANCER-PAYMENT-TRACKER.xltx](https://github.com/AnalystRikoo/Analyst-Rikoo-Portfolio/raw/main/PAYMENT-TRACKER/FREELANCER-PAYMENT-TRACKER.xltx)
 
 **Screenshots**:
-![FULL DASHBOARD] (PAYMENT_TRACKER/DASHBOARD.PNG)
-*Dashboard overview with key metrics, chart and slicers* 
 
-![DATA ENTRY] (PAYMENT_TRACKER/DATAENTRY.PNG)
+![Dashboard](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/DASHBOARD.PNG)  
+
+*Dashboard overview with key metrics, chart, and slicers*
+
+![Data Entry](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/DATAENTRY.PNG)  
+
 *Data entry sheet with sample invoices*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PAIDSLICER.PNG)
+![Paid Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/PAIDSLICER.PNG)  
+
 *Example with Paid slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/PENDINGSLICER.PNG)
-*Example with Pending slicer filtered*
+![Overdue Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/OVERDUESLICERS.PNG)  
 
-![Slicer Filtered] (PAYMENT-TRACKER/OVERDUESLICER.PNG)
 *Example with Overdue slicer filtered*
 
-![Slicer Filtered] (PAYMENT-TRACKER/STATUS+CLIENT.PNG)
-*Example with Pending + Elijah filtered*
+![Pending Slicer](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/PENDINGSGSICER.PNG)  
 
-![INSTRUCTION] (PAYMENT-TRACKER/INSTRUCTION.PNG)
-*Instruction Sheet*
+*Example with Pending slicer filtered*
+
+![Status + Client](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/STATUS+CLIENT.PNG)  
+
+*Example with Status + Client filtered*
+
+
+![Instructions](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/INSTRUCTION.PNG)  
+
+*Instructions sheet*
