@@ -1,4 +1,7 @@
-**Certified Junior Data Analyst** | Lagos, Nigeria  
+**Certified Data Analyst** | Lagos, Nigeria  
+
+**Live Portfolio Website** :
+https://analystrikoo.github.io/Analyst-Rikoo-Portfolio/
 
 Excel · SQL · Power BI · Tableau  
 
@@ -33,8 +36,6 @@ Excel template for freelancers and remote workers to track invoices, payments, a
 3. Go to "DASHBOARD" sheet — slicers and visuals update automatically
 
 4. Refresh PivotTables if needed (right-click → Refresh)
-
-Live Portfolio Website : https://analystrikoo.github.io/Analyst-Rikoo-Portfolio/
 
 **Download Template**:  
 
@@ -71,7 +72,7 @@ Live Portfolio Website : https://analystrikoo.github.io/Analyst-Rikoo-Portfolio/
 Connect:
 
 - X: @AnalystRikoo  
-- LinkedIn: [http://www.linkedin.com/in/analystrikoo]
+- LinkedIn: [https://www.linkedin.com/in/analystrikoo]
 - Email: emmanueljeari@gmail.com
 
 Last updated: January 2026
