@@ -63,6 +63,15 @@ Excel template for freelancers and remote workers to track invoices, payments, a
 
 ![Instructions](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/INSTRUCTION.PNG)  
 *Instructions sheet*
+
+## 2. Cookies Sales Dashboard (Power BI)
+
+Interactive dashboard analyzing restaurant cookie sales performance: revenue, cost, profit by restaurant, KPI cards, pie/bar charts, and slicers for filtering.
+
+**Download PBIX File**:
+[COOKIES-SALES-DASBOARD.pbix](COOKIES-SALES/COOKIES-SALES-DASBOARD.pbix)
+
+
 ## About Me & Contact
 
 - Based in Lagos, Nigeria (open to remote work)
