@@ -71,6 +71,7 @@ Interactive dashboard analyzing restaurant cookie sales performance: revenue, co
 **Download PBIX File**:
 [COOKIES-SALES-DASBOARD.pbix](COOKIES-SALES/COOKIES-SALES-DASBOARD.pbix)
 
+![DASHBOARD Screenshot](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DASHBOARD.PNG)
 
 ## About Me & Contact
 
