@@ -64,14 +64,42 @@ Excel template for freelancers and remote workers to track invoices, payments, a
 ![Instructions](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/PAYMENT-TRACKER/INSTRUCTION.PNG)  
 *Instructions sheet*
 
+
 ## 2. Cookies Sales Dashboard (Power BI)
 
-Interactive dashboard analyzing restaurant cookie sales performance: revenue, cost, profit by restaurant, KPI cards, pie/bar charts, and slicers for filtering.
+Interactive Power BI dashboard analyzing restaurant cookie sales data: revenue, cost, profit, KPIs, pie/bar charts, and slicer filtering by restaurant name.
 
-**Download PBIX File**:
-[COOKIES-SALES-DASBOARD.pbix](COOKIES-SALES/COOKIES-SALES-DASBOARD.pbix)
+**Download PBIX File**
+[COOKIES-SALES-DASHBOARD.pbix](https://github.com/AnalystRikoo/Analyst-Rikoo-Portfolio/raw/main/COOKIES-SALES/COOKIES-SALES-DASBOARD.pbix)
 
-![DASHBOARD Screenshot](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DASHBOARD.PNG)
+**Screenshots** (direct raw links):
+
+**Data Source Page**
+![Data Source](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DATASOURCE.PNG)
+*Raw sales data table used as the foundation*
+
+**Analysis Page**
+![Analysis](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/ANALYSIS.PNG)
+*Data preparation, measures, DAX calculations, and intermediate analysis view*
+
+**Dashboard Overview**
+![Dashboard](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DASHBOARD.PNG)
+*Main interactive dashboard with KPIs, revenue pie chart, profit bar chart, table, and slicers*
+
+**YT Restaurant Filtered**
+![YT Restaurant Filtered](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DASHBOARDi.PNG)
+*Dashboard filtered by YT Restaurant (shows interactivity)*
+
+**Quick Bite Convenience Filtered**
+![Quick Bite Filtered](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/DASHBOARDii.PNG)
+*Dashboard filtered by Quick Bite Convenience (shows interactivity)*
+
+**Instructions Page**
+![Instructions](https://raw.githubusercontent.com/AnalystRikoo/Analyst-Rikoo-Portfolio/main/COOKIES-SALES/INSTRUCTION.PNG)
+*How to use and interpret the dashboard*
+
+**Full Project Files**
+[COOKIES-SALES folder](https://github.com/AnalystRikoo/Analyst-Rikoo-Portfolio/tree/main/COOKIES-SALES)
 
 ## About Me & Contact
 
