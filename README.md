@@ -67,8 +67,30 @@ Excel template for freelancers and remote workers to track invoices, payments, a
 
 ## 2. Cookies Sales Dashboard (Power BI)
 
-Interactive Power BI dashboard analyzing restaurant cookie sales data: revenue, cost, profit, KPIs, pie/bar charts, and slicer filtering by restaurant name.
+Interactive Power BI dashboard analyzing restaurant cookie sales data for a chain of outlets.
 
+**What it is and problems it solves**:
+
+This dashboard transforms raw sales data into clear, actionable business insights — helping restaurant managers and owners quickly:
+- Identify top-performing restaurants by revenue and profit
+- Spot underperforming locations and cost inefficiencies
+- Understand revenue distribution and customer patterns
+- Make faster, data-driven decisions to optimize operations and increase profitability
+
+**What it does** (key features):
+- KPI cards: Total revenue, cost, profit, cookies shipped, customer count
+- Revenue share by restaurant (pie chart)
+- Profit comparison by restaurant (bar chart)
+- Detailed sales table with filters
+- Slicers to filter by restaurant name
+- Full interactivity: hover tooltips, cross-filtering, dynamic updates
+
+**How to use**:
+1. Download and open the PBIX file in Power BI Desktop (free).
+2. Use the slicer on the right to filter by any restaurant name.
+3. Interact with charts and cards — click bars/pies to cross-filter, hover for details.
+4. View raw data on the "Data Source" page, calculations on "Analysis" page, and usage guide on "Instructions" page.
+5. Refresh data if connected to external sources (Home → Refresh).
 **Download PBIX File**
 [COOKIES-SALES-DASHBOARD.pbix](https://github.com/AnalystRikoo/Analyst-Rikoo-Portfolio/raw/main/COOKIES-SALES/COOKIES-SALES-DASBOARD.pbix)
 
